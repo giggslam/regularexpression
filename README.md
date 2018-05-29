@@ -1,4 +1,3 @@
-# regularexpression
-Regular Expression for Python
+# Regular Expression for Python
 
 2018-05-30
